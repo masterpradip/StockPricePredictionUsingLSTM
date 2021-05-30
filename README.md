@@ -1,7 +1,8 @@
 # Closing Stock Price Prediction using LSTM
 
 ## Note:-
-    In this repository I've used Google's data. For any other company just fork the Kaggle notebook and set the "ticker_symbol" variable at the beginning of the notebook with any ticker symbol of your choice listed in NYSE/NASDAQ.
+    In this repository I've used Google's data. For any other company just fork the Kaggle notebook and set the "ticker_symbol"
+    variable at the beginning of the notebook with any ticker symbol of your choice listed in NYSE/NASDAQ.
 
 ## Kaggle Notebook Link:-
     https://www.kaggle.com/pradip11/stock-price-prediction-with-stacked-lstm
